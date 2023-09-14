@@ -40,15 +40,15 @@ E a senha do banco para listar todas as contas.
 ```
 
 * Clone o repositório usando a chave *https*
-    https://github.com/matheuzeba/cubos-bank.git
-```bash
     
+```bash
+    https://github.com/matheuzeba/cubos-bank.git
 ```
 
 * Entre na pasta
-    cd cubos-bank/
-```bash
     
+```bash
+    cd cubos-bank/
 ```
 
 * instale as dependências
