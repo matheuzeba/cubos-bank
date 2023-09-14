@@ -36,17 +36,17 @@ E a senha do banco para listar todas as contas.
 * Clone o repositório usando a chave *ssh*
 
 ```bash
-
+    git@github.com:matheuzeba/cubos-bank.git
 ```
 
 * Clone o repositório usando a chave *https*
-
+    https://github.com/matheuzeba/cubos-bank.git
 ```bash
     
 ```
 
 * Entre na pasta
-
+    cd cubos-bank/
 ```bash
     
 ```
